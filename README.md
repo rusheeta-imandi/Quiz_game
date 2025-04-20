@@ -53,7 +53,7 @@ To run the application, follow these steps:
    ```
 After compiling, you can start the application with:
 ## Screenshot
-![Alt text](F:\workspace\Quiz_game\src\icons\quizzLogin.png)
-![Alt text](F:\workspace\Quiz_game\src\icons\ssrules.png)
-![Alt text](F:\workspace\Quiz_game\src\icons\ExampleQuestion.png)
+![Alt text](src/icons/quizzLogin.png)
+![Alt text](src\icons\ssrules.png)
+![Alt text](src\icons\ExampleQuestion.png)
 
